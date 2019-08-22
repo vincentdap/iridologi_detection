@@ -15,4 +15,5 @@ To run the experiments, you would need:
 
 > How to run :
 > python main.py
+> input image from test images
 
