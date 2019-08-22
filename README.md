@@ -10,8 +10,9 @@ To run the experiments, you would need:
 * Tensorflow Object Detection
 
 > The programs can also run on CPU. You just need to use `tensorflow` instead of `tensorflow-gpu`. Further info 
-1. https://www.tensorflow.org/install/
-2. https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
-
 > How to run :
 > python main.py
+
+References
+1. https://www.tensorflow.org/install/
+2. https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
