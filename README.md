@@ -4,7 +4,7 @@ Iridology is a scientific study of the shape and structure of iris can provide a
 
 To run the experiments, you would need:
 
-* CUDA device with global RAM >= 4 GB (tested with GTX 1060 3GB)
+* CUDA device with global RAM >= 4 GB (tested with GTX 1050 4GB)
 * Python 2.7.x
 * Virtualenv (Anaconda) (optional. For isolated environment)
 * Tensorflow Object Detection
