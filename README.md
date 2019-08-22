@@ -13,5 +13,5 @@ To run the experiments, you would need:
 1. https://www.tensorflow.org/install/
 2. https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
 
-### How to run :
-python main.py
+> How to run :
+> python main.py
