@@ -9,8 +9,9 @@ To run the experiments, you would need:
 * Virtualenv (Anaconda) (optional. For isolated environment)
 * Tensorflow Object Detection
 
-> The programs can also run on CPU. You just need to use `tensorflow` instead of `tensorflow-gpu`. Further info https://www.tensorflow.org/install/
-https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
+> The programs can also run on CPU. You just need to use `tensorflow` instead of `tensorflow-gpu`. Further info 
+1. https://www.tensorflow.org/install/
+2. https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
 
 ### How to run :
 python main.py
