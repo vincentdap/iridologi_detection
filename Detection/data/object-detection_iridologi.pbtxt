@@ -1,0 +1,10 @@
+item {
+  id: 1
+  name: 'normal'
+}
+item {
+  id: 2
+  name: 'tidak_normal'
+}
+
+

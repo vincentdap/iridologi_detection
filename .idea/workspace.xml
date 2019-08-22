@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a04430d6-80b6-4304-a724-5e7477769ed9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Iridologi_Detection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection" beforeDir="false" afterPath="$PROJECT_DIR$/Detection" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/Finish.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/Start.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/[CATATAN ERROR].txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/deteksi_object.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/generate_tfrecord.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/generate_train_test_record.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/label.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/split_train_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/ujicoba.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/BUILD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/category_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/category_util_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/config_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/config_util_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/dataset_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/dataset_util_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/label_map_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/label_map_util_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/learning_schedules.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/learning_schedules_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/metrics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/metrics_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/np_box_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/np_box_list_ops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/np_box_list_ops_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/np_box_list_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/np_box_ops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/np_box_ops_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/object_detection_evaluation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/object_detection_evaluation_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/ops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/ops_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/per_image_evaluation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/per_image_evaluation_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/shape_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/shape_utils_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/static_shape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/static_shape_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/test_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/test_utils_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/variables_helper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/variables_helper_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/visualization_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/utils/visualization_utils_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detection/xml_to_csv.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/detect_iridologi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="776" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Iridologi_Detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Iridologi_Detection" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Anaconda3/envs/tensorflow/pythonw.exe" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Iridologi_Detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\vincent_dap\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>true</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a04430d6-80b6-4304-a724-5e7477769ed9" name="Default Changelist" comment="" />
+      <created>1566294166645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566294166645</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23373677" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="R Packages" />
+      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/detect_iridologi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

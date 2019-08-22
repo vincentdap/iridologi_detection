@@ -1,0 +1,8 @@
+item {
+  id: 1
+  name: 'tidak_normal'
+}
+item {
+  id: 2
+  name: 'normal'
+}
